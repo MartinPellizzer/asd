@@ -7,6 +7,11 @@
 #include <stdio.h>
 #include <stdlib.h> 	// for malloc()
 
+
+
+// -----------------------
+// ~main
+// -----------------------
 int main(void)
 {
 	int a = 10; 	// data variables
